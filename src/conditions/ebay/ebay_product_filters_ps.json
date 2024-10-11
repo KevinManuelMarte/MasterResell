@@ -1,0 +1,50 @@
+{
+    "category_ids": "139971",
+    "object_type_ids": "10088",
+    "groups": [
+        {
+            "product_channel_name": "ps4",
+            "general_negative_keywords":  [
+            ],
+            "filters": [
+                {
+                    "keywords": "ps4",
+                    "minPrice": 50,
+                    "maxPrice": 100
+                },
+                {
+                    "keywords": "PlayStation 4",
+                    "minPrice": 50,
+                    "maxPrice": 100
+                },
+                {
+                    "keywords": "Play Station 4",
+                    "minPrice": 50,
+                    "maxPrice": 100
+                }
+            ]
+        },
+        {
+            "product_channel_name": "ps5",
+            "general_negative_keywords":  [
+            ],
+            "filters": [
+                {
+                    "keywords": "ps5",
+                    "minPrice": 275,
+                    "maxPrice": 325
+                },
+                {
+                    "keywords": "PlayStation 5",
+                    "minPrice": 275,
+                    "maxPrice": 325
+                },
+                {
+                    "keywords": "Play Station 5",
+                    "minPrice": 275,
+                    "maxPrice": 325
+                }
+            ]
+        }
+    ]
+}

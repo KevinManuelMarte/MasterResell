@@ -1,0 +1,159 @@
+{
+    "category_ids": "175673",
+    "object_type_ids": "",
+    "groups": [
+        {
+            "product_channel_name": "gtx", 
+            "general_negative_keywords":  [
+            ],
+            "filters": [
+                {
+                    "keywords": "GTX",
+                    "minPrice": 50,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "Grafica - GTX",
+                    "minPrice": 50,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "Tarjeta - GTX",
+                    "minPrice": 50,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "Tarjeta - Grafica GTX",
+                    "minPrice": 50,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "GTX - GRAFICA",
+                    "minPrice": 50,
+                    "maxPrice": 9999
+                }
+            ]
+        
+        },
+
+        {
+            "product_channel_name": "rtx", 
+            "general_negative_keywords":  [
+
+            ],
+            "filters": [
+                {
+                    "keywords": "RTX",
+                    "minPrice": 50,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "Grafica - RTX",
+                    "minPrice": 50,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "Tarjeta  - RTX",
+                    "minPrice": 50,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "Tarjeta Grafica - RTX",
+                    "minPrice": 50,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "RTX - Grafica",
+                    "minPrice": 50,
+                    "maxPrice": 9999
+                }
+            ]
+        },
+
+        {
+            "product_channel_name": "pack-gaming", 
+            "general_negative_keywords":  [
+
+            ],
+            "filters": [
+                {
+                    "keywords": "Procesador - Intel i9",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "Procesador - Intel i7",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "Procesador - Ryzen 9",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "Procesador - Ryzen 7",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "Procesador - Ryzen 5",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "MEMORIA RAM 32 GB DDR4",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "RAM 32 GB ",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "MEMORIA RAM 16 GB DDR4",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "RAM 16 GB",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "MEMORIA RAM 8 GB DDR4",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+
+                {
+                    "keywords": "RAM 8 GB",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "MEMORIA RAM DDR5",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "MEMORIA RAM DDR4",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "RAM DDR5",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                },
+                {
+                    "keywords": "RAM DDR4",
+                    "minPrice": 0,
+                    "maxPrice": 9999
+                }
+            ]
+        }
+
+    ]
+}

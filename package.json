@@ -1,0 +1,27 @@
+{
+  "name": "masterresellbot",
+  "version": "1.0.0",
+  "description": "Bot hecho para el servidor de venta de articulos de Master Resell",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "npm run dev",
+    "dev": "npx tsx src/index.ts"
+  },
+  "keywords": [
+    "Discord",
+    "bot"
+  ],
+  "author": "Kevin Marte (kevinprogramador en Discord)",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.13.0",
+    "axios": "^1.6.8",
+    "ebay-api": "^8.7.1",
+    "prisma": "^5.13.0",
+    "tsx": "4.9.3"
+  },
+  "devDependencies": {
+    "discord.js": "14.14.1",
+    "tsx": "4.9.3"
+  }
+}

@@ -1,0 +1,185 @@
+{
+    "category_ids": "24200",
+    "object_type_ids": "9487",
+    "groups": [
+        {
+            "product_channel_name": "series-3",
+            "general_negative_keywords":  [
+                "Series SE", "Series 4", "Series 5", "Series 6", "Series 7", "Series 8", "Series 9",
+                "Serie SE", "Serie 4", "Serie 5", "Serie 6", "Serie 7", "Serie 8", "Serie 9"],
+            "filters": [
+                {
+                    "keywords": "Apple Watch Series 3",
+                    "minPrice": 50,
+                    "maxPrice": 70
+                },
+                {
+                    "keywords": "Apple Watch Serie 3",
+                    "minPrice": 50,
+                    "maxPrice": 70
+                },
+                {
+                    "keywords": "Apple Watch 3",
+                    "minPrice": 50,
+                    "maxPrice": 70
+                }
+            ]
+        },
+        {
+            "product_channel_name": "series-4",
+            "general_negative_keywords":  [
+                "Series 3", "Series SE", "Series 5", "Series 6", "Series 7", "Series 8", "Series 9",
+                "Serie 3", "Serie SE", "Serie 5", "Serie 6", "Serie 7", "Serie 8", "Serie 9"],
+            "filters": [
+                {
+                    "keywords": "Apple Watch Series 4",
+                    "minPrice": 50,
+                    "maxPrice": 60
+                },
+                {
+                    "keywords": "Apple Watch Serie 4",
+                    "minPrice": 50,
+                    "maxPrice": 60
+                },
+                {
+                    "keywords": "Apple Watch 4",
+                    "minPrice": 50,
+                    "maxPrice": 70
+                }
+            ]
+        },
+        {
+            "product_channel_name": "series-5",
+            "general_negative_keywords":  [
+                "Series 3", "Series 4", "Series SE", "Series 6", "Series 7", "Series 8", "Series 9",
+                "Serie 3", "Serie 4", "Serie SE", "Serie 6", "Serie 7", "Serie 8", "Serie 9"],
+            "filters": [
+                {
+                    "keywords": "Apple Watch Series 5",
+                    "minPrice": 50,
+                    "maxPrice": 140
+                },
+                {
+                    "keywords": "Apple Watch Serie 5",
+                    "minPrice": 50,
+                    "maxPrice": 140
+                },
+                {
+                    "keywords": "Apple Watch 5",
+                    "minPrice": 50,
+                    "maxPrice": 140
+                }
+            ]
+        },
+        {
+            "product_channel_name": "series-6",
+            "general_negative_keywords":  [
+                "Series 3", "Series 4", "Series 5", "Series SE", "Series 7", "Series 8", "Series 9",
+                "Serie 3", "Serie 4", "Serie 5", "Serie SE", "Serie 7", "Serie 8", "Serie 9"],
+            "filters": [
+                {
+                    "keywords": "Apple Watch Series 6",
+                    "minPrice": 50,
+                    "maxPrice": 160
+                },
+                {
+                    "keywords": "Apple Watch Serie 6",
+                    "minPrice": 50,
+                    "maxPrice": 160
+                },
+                {
+                    "keywords": "Apple Watch 6",
+                    "minPrice": 50,
+                    "maxPrice": 160
+                }
+            ]
+        },
+        {
+            "product_channel_name": "series-7",
+            "general_negative_keywords":  [
+                "Series 3", "Series 4", "Series 5", "Series 6", "Series SE", "Series 8", "Series 9",
+                "Serie 3", "Serie 4", "Serie 5", "Serie 6", "Serie SE", "Serie 8", "Serie 9"],
+            "filters": [
+                {
+                    "keywords": "Apple Watch Series 7",
+                    "minPrice": 50,
+                    "maxPrice": 180
+                },
+                {
+                    "keywords": "Apple Watch Serie 7",
+                    "minPrice": 50,
+                    "maxPrice": 180
+                },
+                {
+                    "keywords": "Apple Watch 7",
+                    "minPrice": 50,
+                    "maxPrice": 180
+                }
+            ]
+        },
+        {
+            "product_channel_name": "series-8",
+            "general_negative_keywords":  [
+                "Series 3", "Series 4", "Series 5", "Series 6", "Series 7", "Series SE", "Series 9",
+                "Serie 3", "Serie 4", "Serie 5", "Serie 6", "Serie 7", "Serie SE", "Serie 9"],
+            "filters": [
+                {
+                    "keywords": "Apple Watch Series 8",
+                    "minPrice": 50,
+                    "maxPrice": 240
+                },
+                {
+                    "keywords": "Apple Watch Serie 8",
+                    "minPrice": 50,
+                    "maxPrice": 240
+                },
+                {
+                    "keywords": "Apple Watch 8",
+                    "minPrice": 50,
+                    "maxPrice": 240
+                }
+            ]
+        },
+        {
+            "product_channel_name": "series-9",
+            "general_negative_keywords":  [
+                "Series 3", "Series 4", "Series 5", "Series 6", "Series 7", "Series 8", "Series SE",
+                "Serie 3", "Serie 4", "Serie 5", "Serie 6", "Serie 7", "Serie 8", "Serie SE"],
+            "filters": [
+                {
+                    "keywords": "Apple Watch Series 9",
+                    "minPrice": 50,
+                    "maxPrice": 310
+                },
+                {
+                    "keywords": "Apple Watch Serie 9",
+                    "minPrice": 50,
+                    "maxPrice": 310
+                },
+                {
+                    "keywords": "Apple Watch 9",
+                    "minPrice": 50,
+                    "maxPrice": 310
+                }
+            ]
+        },
+        {
+            "product_channel_name": "series-se",
+            "general_negative_keywords":  [
+                "Series 3", "Series 4", "Series 5", "Series 6", "Series 7", "Series 8", "Series 9",
+                "Serie 3", "Serie 4", "Serie 5", "Serie 6", "Serie 7", "Serie 8", "Serie 9"],
+            "filters": [
+                {
+                    "keywords": "Apple Watch Serie SE",
+                    "minPrice": 50,
+                    "maxPrice": 128
+                },
+                {
+                    "keywords": "Apple Watch SE",
+                    "minPrice": 50,
+                    "maxPrice": 128
+                }
+            ]
+        }
+    ]
+}

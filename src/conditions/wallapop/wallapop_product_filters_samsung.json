@@ -1,0 +1,279 @@
+{
+    "category_ids": "24200",
+    "object_type_ids": "",
+    "groups": [
+        {
+            "product_channel_name": "s20-all-versions",
+            "general_negative_keywords":  [
+                "Reparacion"
+            ],     
+            "filters": [
+                {
+                    "keywords": "S20 FE - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 160
+                },
+                {
+                    "keywords": "S20 FE - 256GB",
+                    "minPrice": 50,
+                    "maxPrice": 160
+                },
+                {
+                    "keywords": "S20 - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 160
+                },
+                {
+                    "keywords": "S20 PLUS - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 170
+                },
+                {
+                    "keywords": "S20 ULTRA - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 240
+                },
+                {
+                    "keywords": "S20 ULTRA - 256GB",
+                    "minPrice": 50,
+                    "maxPrice": 240
+                }
+            ]
+        },
+        {
+            "product_channel_name": "s21-all-versions",
+            "general_negative_keywords":  [
+                "Reparacion"
+            ],     
+            "filters": [
+                {
+                    "keywords": "S21 FE - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 175
+                },
+                {
+                    "keywords": "S21 FE - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 175
+                },
+                {
+                    "keywords": "S21 - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 190
+                },
+                {
+                    "keywords": "S21 - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 190
+                },
+                {
+                    "keywords": "S21 PLUS - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 200
+                },
+                {
+                    "keywords": "S21 PLUS - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 200
+                },
+                {
+                    "keywords": "S21 ULTRA - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 270
+                },
+                {
+                    "keywords": "S21 ULTRA - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 270
+                },
+                {
+                    "keywords": "S21 ULTRA - 512 GB",
+                    "minPrice": 50,
+                    "maxPrice": 270
+                }
+            ]
+        },
+        {
+            "product_channel_name": "s22-all-versions",
+            "general_negative_keywords":  [
+                "Reparacion"
+                
+            ],
+            "filters": [
+                {
+                    "keywords": "S22 - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 230
+                },
+                {
+                    "keywords": "S22 - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 230
+                },
+                {
+                    "keywords": "S22 PLUS - 128 GB",
+                    "minPrice": 70,
+                    "maxPrice": 250
+                },
+                {
+                    "keywords": "S22 PLUS - 256 GB",
+                    "minPrice": 70,
+                    "maxPrice": 250
+                },
+                {
+                    "keywords": "S22 ULTRA - 128 GB",
+                    "minPrice": 70,
+                    "maxPrice": 320
+                },
+                {
+                    "keywords": "S22 ULTRA - 256 GB",
+                    "minPrice": 70,
+                    "maxPrice": 320
+                },
+                {
+                    "keywords": "S22 ULTRA - 512 GB",
+                    "minPrice": 70,
+                    "maxPrice": 320
+                }
+            ]
+        },
+        {
+            "product_channel_name": "s23-all-versions",
+            "general_negative_keywords":  [
+                "Reparacion"
+            ],     
+            "filters": [
+                {
+                    "keywords": "S23 FE - 128 GB",
+                    "minPrice": 100,
+                    "maxPrice": 350
+                },
+                {
+                    "keywords": "S23 FE - 256 GB",
+                    "minPrice": 100,
+                    "maxPrice": 350
+                },
+                {
+                    "keywords": "S23 - 128 GB",
+                    "minPrice": 100,
+                    "maxPrice": 390
+                },
+                {
+                    "keywords": "S23 - 256 GB",
+                    "minPrice": 100,
+                    "maxPrice": 390
+                },
+                {
+                    "keywords": "S23 - 512 GB",
+                    "minPrice": 100,
+                    "maxPrice": 390
+                },
+                {
+                    "keywords": "S23 PLUS - 256 GB",
+                    "minPrice": 100,
+                    "maxPrice": 410
+                },
+                {
+                    "keywords": "S23 PLUS - 512 GB",
+                    "minPrice": 100,
+                    "maxPrice": 410
+                },
+                {
+                    "keywords": "S23 ULTRA - 256 GB",
+                    "minPrice": 200,
+                    "maxPrice": 500
+                },
+                {
+                    "keywords": "S23 ULTRA - 512 GB",
+                    "minPrice": 100,
+                    "maxPrice": 500
+                },
+                {
+                    "keywords": "S23 ULTRA - 1 TB",
+                    "minPrice": 100,
+                    "maxPrice": 500
+                }
+            ]
+        },
+        {
+            "product_channel_name": "s24-all-versions",
+            "general_negative_keywords":  [
+                "Reparacion"
+            ],     
+            "filters": [
+                {
+                    "keywords": "S24 - 128 GB",
+                    "minPrice": 200,
+                    "maxPrice": 500
+                },
+                {
+                    "keywords": "S24 - 256 GB",
+                    "minPrice": 200,
+                    "maxPrice": 500
+                }
+            ]
+        },
+        {
+            "product_channel_name": "zflip-all-versions",
+            "general_negative_keywords":  [
+                "Reparacion"
+            ],     
+            "filters": [
+                {
+                    "keywords": "Z FLIP 4 - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 320
+                },
+                {
+                    "keywords": "Z FLIP 4 - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 340
+                },
+                {
+                    "keywords": "Z FLIP 4 - 512 GB",
+                    "minPrice": 50,
+                    "maxPrice": 430
+                },
+                {
+                    "keywords": "Z FLIP 5 - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 330
+                },
+                {
+                    "keywords": "Z FLIP 5 - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 530
+                }
+            ]
+        },
+        {
+            "product_channel_name": "zfold-all-versions",
+            "general_negative_keywords":  [
+                "Reparacion"
+                
+            ],
+            "filters": [
+                {
+                    "keywords": "Z FOLD 4 - 512 GB",
+                    "minPrice": 50,
+                    "maxPrice": 620
+                },
+                {
+                    "keywords": "Z FOLD 4 - 1TB",
+                    "minPrice": 50,
+                    "maxPrice": 930
+                },
+                {
+                    "keywords": "Z FOLD 5 - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 680
+                },
+                {
+                    "keywords": "Z FOLD 5 - 1TB",
+                    "minPrice": 50,
+                    "maxPrice": 930
+                }
+            ]
+        }
+    ]
+}

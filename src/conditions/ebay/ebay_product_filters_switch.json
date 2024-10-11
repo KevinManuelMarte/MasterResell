@@ -1,0 +1,38 @@
+{
+    "category_ids": "139971",
+    "object_type_ids": "10088",
+    "groups": [
+        {
+            "product_channel_name": "nintendo-switch",
+            "general_negative_keywords":  [
+            ],
+            "filters": [
+                {
+                    "keywords": "switch",
+                    "minPrice": 100,
+                    "maxPrice": 200
+                },
+                {
+                    "keywords": "Nintendo switch",
+                    "minPrice": 100,
+                    "maxPrice": 200
+                },
+                {
+                    "keywords": "Switch Nintendo",
+                    "minPrice": 0,
+                    "maxPrice": 200
+                },
+                {
+                    "keywords": "Nintendo Switch OLED",
+                    "minPrice": 0,
+                    "maxPrice": 200
+                },
+                {
+                    "keywords": "Nintendo Switch Lite",
+                    "minPrice": 0,
+                    "maxPrice": 200
+                }
+            ]
+        }
+    ]
+}

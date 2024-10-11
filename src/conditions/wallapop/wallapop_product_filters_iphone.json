@@ -1,0 +1,458 @@
+{
+    "category_ids": "24200",
+    "object_type_ids": "",
+    "groups": [
+        {
+            "product_channel_name": "iphone-x",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "XS", "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone X - 64 GB",
+                    "minPrice": 40,
+                    "maxPrice": 130
+                },
+                {
+                    "keywords": "iPhone X - 256 GB",
+                    "minPrice": 40,
+                    "maxPrice": 130
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-xs",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "MAX"],
+            "filters": [
+                {
+                    "keywords": "iPhone XS - 64 GB",
+                    "minPrice": 50,
+                    "maxPrice": 150
+                },
+                {
+                    "keywords": "iPhone XS - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 150
+                },
+                {
+                    "keywords": "iPhone XS - 512 GB",
+                    "minPrice": 50,
+                    "maxPrice": 150
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-xs-max",
+            "general_negative_keywords":  [
+                "Reparacion"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone XS Max - 64 GB",
+                    "minPrice": 50,
+                    "maxPrice": 180
+                },
+                {
+                    "keywords": "iPhone XS Max - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 180
+                },
+                {
+                    "keywords": "iPhone XS Max - 512 GB",
+                    "minPrice": 50,
+                    "maxPrice": 180
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-11",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "PRO", "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 11 - 64 GB",
+                    "minPrice": 50,
+                    "maxPrice": 200
+                },
+                {
+                    "keywords": "iPhone 11 - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 200
+                },
+                {
+                    "keywords": "iPhone 11 - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 200
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-11-pro",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 11 Pro - 64 GB",
+                    "minPrice": 70,
+                    "maxPrice": 250
+                },
+                {
+                    "keywords": "iPhone 11 Pro - 256 GB",
+                    "minPrice":750,
+                    "maxPrice": 250
+                },
+                {
+                    "keywords": "iPhone 11 Pro - 512 GB",
+                    "minPrice": 70,
+                    "maxPrice": 250
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-11-pro-max",
+            "general_negative_keywords":  [
+                "Reparacion"
+                
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 11 Pro Max - 64 GB",
+                    "minPrice": 70,
+                    "maxPrice": 270
+                },
+                {
+                    "keywords": "iPhone 11 Pro Max - 256 GB",
+                    "minPrice": 70,
+                    "maxPrice": 270
+                },
+                {
+                    "keywords": "iPhone 11 Pro Max - 512 GB",
+                    "minPrice": 70,
+                    "maxPrice": 270
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-12",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "PRO", "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 12 - 64 GB",
+                    "minPrice": 50,
+                    "maxPrice": 250
+                },
+                {
+                    "keywords": "iPhone 12 - 128 GB",
+                    "minPrice": 50,
+                    "maxPrice": 250
+                },
+                {
+                    "keywords": "iPhone 12 - 256 GB",
+                    "minPrice": 50,
+                    "maxPrice": 250
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-12-pro",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 12 Pro - 128 GB",
+                    "minPrice": 100,
+                    "maxPrice": 325
+                },
+                {
+                    "keywords": "iPhone 12 Pro - 256 GB",
+                    "minPrice": 100,
+                    "maxPrice": 325
+                },
+                {
+                    "keywords": "iPhone 12 Pro - 512 GB",
+                    "minPrice": 100,
+                    "maxPrice": 325
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-12-pro-max",
+            "general_negative_keywords":  [
+                "Reparacion"
+                
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 12 Pro Max - 128 GB",
+                    "minPrice": 100,
+                    "maxPrice": 370
+                },
+                {
+                    "keywords": "iPhone 12 Pro Max - 256 GB",
+                    "minPrice": 100,
+                    "maxPrice": 370
+                },
+                {
+                    "keywords": "iPhone 12 Pro Max - 512 GB",
+                    "minPrice": 100,
+                    "maxPrice": 370
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-13",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "PRO", "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 13 - 128 GB",
+                    "minPrice": 100,
+                    "maxPrice": 360
+                },
+                {
+                    "keywords": "iPhone 13 - 256 GB",
+                    "minPrice": 100,
+                    "maxPrice": 360
+                },
+                {
+                    "keywords": "iPhone 13 - 512 GB",
+                    "minPrice": 100,
+                    "maxPrice": 360
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-13-pro",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 13 Pro - 128 GB",
+                    "minPrice": 150,
+                    "maxPrice": 440
+                },
+                {
+                    "keywords": "iPhone 13 Pro - 256 GB",
+                    "minPrice": 150,
+                    "maxPrice": 440
+                },
+                {
+                    "keywords": "iPhone 13 Pro - 512 GB",
+                    "minPrice": 100,
+                    "maxPrice": 440
+                },
+                {
+                    "keywords": "iPhone 13 Pro - 1 TB",
+                    "minPrice": 100,
+                    "maxPrice": 440
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-13-pro-max",
+            "general_negative_keywords":  [
+                "Reparacion"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 13 Pro Max - 128 GB",
+                    "minPrice": 150,
+                    "maxPrice": 480
+                },
+                {
+                    "keywords": "iPhone 13 Pro Max - 256 GB",
+                    "minPrice": 150,
+                    "maxPrice": 480
+                },
+                {
+                    "keywords": "iPhone 13 Pro Max - 512 GB",
+                    "minPrice": 150,
+                    "maxPrice": 480
+                },
+                {
+                    "keywords": "iPhone 13 Pro Max - 1 TB",
+                    "minPrice": 150,
+                    "maxPrice": 480
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-14",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "PRO", "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 14 - 128 GB",
+                    "minPrice": 150,
+                    "maxPrice": 470
+                },
+                {
+                    "keywords": "iPhone 14 - 256 GB",
+                    "minPrice": 150,
+                    "maxPrice": 470
+                },
+                {
+                    "keywords": "iPhone 14 - 512 GB",
+                    "minPrice": 150,
+                    "maxPrice": 470
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-14-pro",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 14 Pro - 128 GB",
+                    "minPrice": 200,
+                    "maxPrice": 600
+                },
+                {
+                    "keywords": "iPhone 14 Pro - 256 GB",
+                    "minPrice": 200,
+                    "maxPrice": 600
+                },
+                {
+                    "keywords": "iPhone 14 Pro - 512 GB",
+                    "minPrice": 200,
+                    "maxPrice": 600
+                },
+                {
+                    "keywords": "iPhone 14 Pro - 1 TB",
+                    "minPrice": 200,
+                    "maxPrice": 600
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-14-pro-max",
+            "general_negative_keywords":  [
+                "Reparacion"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 14 Pro Max - 128 GB",
+                    "minPrice": 250,
+                    "maxPrice": 700
+                },
+                {
+                    "keywords": "iPhone 14 Pro Max - 256 GB",
+                    "minPrice": 250,
+                    "maxPrice": 700
+                },
+                {
+                    "keywords": "iPhone 14 Pro Max - 512 GB",
+                    "minPrice": 250,
+                    "maxPrice": 700
+                },
+                {
+                    "keywords": "iPhone 14 Pro Max - 1 TB ",
+                    "minPrice": 250,
+                    "maxPrice": 700
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-15",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "PRO", "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 15 - 128 GB",
+                    "minPrice": 300,
+                    "maxPrice": 650
+                },
+                {
+                    "keywords": "iPhone 15 - 256 GB",
+                    "minPrice": 300,
+                    "maxPrice": 650
+                },
+                {
+                    "keywords": "iPhone 15 - 512 GB",
+                    "minPrice": 300,
+                    "maxPrice": 650
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-15-pro",
+            "general_negative_keywords":  [
+                "Reparacion",
+                "MAX"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 15 Pro - 128 GB",
+                    "minPrice": 300,
+                    "maxPrice": 700
+                },
+                {
+                    "keywords": "iPhone 15 Pro - 256 GB",
+                    "minPrice": 300,
+                    "maxPrice": 700
+                },
+                {
+                    "keywords": "iPhone 15 Pro - 512 GB",
+                    "minPrice": 300,
+                    "maxPrice": 700
+                },
+                {
+                    "keywords": "iPhone 15 Pro - 1 TB",
+                    "minPrice": 300,
+                    "maxPrice": 700
+                }
+            ]
+        },
+        {
+            "product_channel_name": "iphone-15-pro-max",
+            "general_negative_keywords":  [
+                "Reparacion"
+            ],
+            "filters": [
+                {
+                    "keywords": "iPhone 15 Pro Max - 128 GB",
+                    "minPrice": 300,
+                    "maxPrice": 800
+                },
+                {
+                    "keywords": "iPhone 15 Pro Max - 256 GB",
+                    "minPrice": 300,
+                    "maxPrice": 800
+                },
+                {
+                    "keywords": "iPhone 15 Pro Max - 512 GB",
+                    "minPrice": 300,
+                    "maxPrice": 800
+                },
+                {
+                    "keywords": "iPhone 15 Pro Max - 1 TB ",
+                    "minPrice": 300,
+                    "maxPrice": 800
+                }
+            ]
+        }
+    ]
+}
